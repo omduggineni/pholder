@@ -27,4 +27,4 @@ jobs:
           github_token: ${{ secrets.github_token }}
           
           # Always release new version
-          release: true
+          release: false
